@@ -2,6 +2,7 @@
 
 ## Overview
 - Send message is used to send messages to WhatsApp.
+- Batch request is to call multiple API endpoints in one request. This example demonstrates how to send multiple message API requests in one go    using the Meta Cloud API. Meta allows sending up to 50 requests in one batch.
 
 ## Installation
 1. Install dependencies:
